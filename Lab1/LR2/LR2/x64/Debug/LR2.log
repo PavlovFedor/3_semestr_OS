@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\OS\Lab1\LR2\LR2\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\OS\Lab1\LR2\LR2\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  task1.cpp
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\OS\Lab1\LR2\LR2\task1.cpp(34,10): warning C4101: ch: неиспользованная локальная переменная
+  Создание кода...
+  LR2.vcxproj -> C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\OS\Lab1\LR2\LR2\x64\Debug\LR2.exe
